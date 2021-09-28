@@ -75,4 +75,4 @@ Extensible React Hook Form wrapper with register rules written in mongoDB query 
 </FormWrapper>
 ```
 
-Try it on CodeSandbox [React Hook From with React Select](https://codesandbox.io/s/vibrant-blackwell-v0wgj?file=/src/App.js)
+Try it on CodeSandbox [React Hook From Wrapper](https://codesandbox.io/s/vibrant-blackwell-v0wgj?file=/src/App.js)
