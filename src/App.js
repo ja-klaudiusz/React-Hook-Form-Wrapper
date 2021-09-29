@@ -109,9 +109,9 @@ function App() {
               required: { value: true, message: 'Vegetables are required' },
             }}
             options={[
-              { label: 'Apples', value: 'apples' },
-              { label: 'Oranges', value: 'oranges' },
-              { label: 'Citrones', value: 'citrones' },
+              { label: 'Oregano', value: 'oregano' },
+              { label: 'Pepprer', value: 'pepper' },
+              { label: 'Mint', value: 'mint' },
             ]}
           />
 
